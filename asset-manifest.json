@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Roman-Chaus-CV-react/static/css/main.073c9b0a.css",
+    "main.js": "/Roman-Chaus-CV-react/static/js/main.79eadb23.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Roman-Chaus-CV-react/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Roman-Chaus-CV-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Roman-Chaus-CV-react/index.html",
+    "main.073c9b0a.css.map": "/Roman-Chaus-CV-react/static/css/main.073c9b0a.css.map",
+    "main.79eadb23.js.map": "/Roman-Chaus-CV-react/static/js/main.79eadb23.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Roman-Chaus-CV-react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.79eadb23.js"
+  ]
+}
